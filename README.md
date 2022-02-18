@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+###👋
 <h3>Fala meus queridos!</h3>
 <p> Meu nome é Diego Walisson tenho 21 anos</p>
 <p> Atualmente cursando Técnico de Imformátia <p>
