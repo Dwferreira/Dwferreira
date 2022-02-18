@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 diegowalisson843@gmail.com
+- 📫 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <h3>Fala meus queridos!</h3>
 <p> Meu nome é Diego Walisson tenho 21 anos</p>
-<p> Atualmente cursando Técnico de Imformátia e <p>
+<p> Atualmente cursando Técnico de Imformátia <p>
  
  <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
   <img align="center" alt="DW-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  <div> <a href="mailto:diegowalisson843@gmail.com" target="_blank"><img src="
