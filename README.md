@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
+<h3>Fala meus queridos!</h3>
+<p> Meu nome é Diego Walisson tenho 21 anos</p>
+<p> Atualmente cursando Técnico de Imformátia <p>
+ 
+ ##
+ 
 
 - 🔭 Tecnico em manutencão e pr
 - 🌱 I’m currently learning ...
@@ -13,10 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3>Fala meus queridos!</h3>
-<p> Meu nome é Diego Walisson tenho 21 anos</p>
-<p> Atualmente cursando Técnico de Imformátia <p>
- 
+
  <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dwferreira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -31,4 +32,6 @@ Here are some ideas to get you started:
   <img align="center" alt="DW-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  <div> <a href="mailto:diegowalisson843@gmail.com" target="_blank"><img src="
+ ##
+  <div> <a href="mailto:diegowalisson843@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </div>
