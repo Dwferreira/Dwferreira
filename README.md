@@ -7,13 +7,12 @@
  
 
 - 🔭 Técnico de planejamento e programação da manutenção
-- 🌱 Cursando atualmente Técnico de Iformátia
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Cursando atualmente Técnico de Informátia
+- 👯 Procurando novos aprendizados para meu crescimento na área Tecnológica
+- 💬 Disposto a aprender cada dia mais
+- 📫 Compartilhador e receptor de aprendizagem
+- 😄 Foco e determinação
+- ⚡ Sempe em busca de resultados ...
 
 
  <div align="center">
