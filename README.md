@@ -1,7 +1,8 @@
-###👋
-<h3>Fala meus queridos!</h3>
-<p> Meu nome é Diego Walisson tenho 21 anos</p>
-<p> Atualmente cursando Técnico de Imformátia <p>
+👋👋👋
+<h3>Fala meus queridos...</h3>
+<p> Meu nome é Diego Walisson conhecido como Dw, tenho 21 anos</p>
+<p> Cursando aatualmente Técnico de Imformátia <p>
+<p>Brasileiro natural de contagem-MG</p>
  
  ##
  
