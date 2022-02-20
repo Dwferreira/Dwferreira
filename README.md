@@ -1,14 +1,13 @@
 👋👋👋
 <h3>Fala meus queridos...</h3>
 <p> Meu nome é Diego Walisson conhecido como Dw, tenho 21 anos</p>
-<p> Cursando aatualmente Técnico de Imformátia <p>
 <p>Brasileiro natural de contagem-MG</p>
  
  ##
  
 
 - 🔭 Técnico de planejamento e programação da manutenção
-- 🌱 I’m currently learning ...
+- 🌱 Cursando atualmente Técnico de Iformátia
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
