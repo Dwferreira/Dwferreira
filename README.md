@@ -1,3 +1,4 @@
+ <img max-width="100%" align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943962263738531920/Design_sem_nome.png"></a>
 
 <h3>Fala meus queridos...</h3>
 <p> Meu nome é Diego Walisson conhecido como Dw, tenho 21 anos</p>
