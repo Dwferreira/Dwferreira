@@ -1,4 +1,4 @@
-👋👋👋
+
 <h3>Fala meus queridos...</h3>
 <p> Meu nome é Diego Walisson conhecido como Dw, tenho 21 anos</p>
 <p>Brasileiro natural de contagem-MG</p>
@@ -17,8 +17,8 @@
 
  <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Dwferreira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwferreira&layout=compact&langs_count=7&theme=merko"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=Dwferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwferreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ##
